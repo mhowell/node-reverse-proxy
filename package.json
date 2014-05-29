@@ -1,0 +1,12 @@
+{
+	"name": "aero-ui",
+	"version": "0.0.1",
+	"main": "server.js",
+	"private": true,
+	"dependencies": {
+		"express": "4.3.1",
+		"morgan": "~1.1.1",
+		"request": "~2.36.0",
+		"http-proxy": "~1.1.2"
+	}
+}
